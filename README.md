@@ -1,5 +1,4 @@
-# h1 align="center">Hi 👋, I'm matex</h1>
-
+<h1 align="center">Hi 👋, I'm matex</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mratinkoviccc&label=Profile%20views&color=0e75b6&style=flat" alt="mratinkoviccc" /> </p>
@@ -24,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mratinkoviccc&show_icons=true&locale=en" alt="mratinkoviccc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mratinkoviccc&" alt="mratinkoviccc" /></p>
-
-
